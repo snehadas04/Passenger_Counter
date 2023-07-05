@@ -19,3 +19,12 @@ h2{
     color:floralwhite;
     font-size: 50px;
 }
+
+button{
+    margin: 10px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    color: ivory;
+    background-color: brown;
+}
