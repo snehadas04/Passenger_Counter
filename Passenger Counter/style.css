@@ -21,10 +21,23 @@ h2{
 }
 
 button{
+    height: 50px;
+    width: 180px;
     margin: 10px;
-    border-radius: 8px;
+    border-style: double ;
+    border-width: 6px;
+    border-radius: 4px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 28px;
     color: ivory;
+}
+
+#save-btn{
+    background-color: darkgreen;
+    border-color: rgb(238, 227, 164);
+}
+
+#increment-btn{
     background-color: brown;
+    border-color: rgb(238, 227, 164);
 }
