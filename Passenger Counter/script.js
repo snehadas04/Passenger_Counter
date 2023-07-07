@@ -7,6 +7,9 @@ function increment(){
     countEl.innerText = count
 }
 
+let saveEl = document.getElementById("save-el")
 function save(){
+    let countStr = count+"_"
+    saveEl.innerText += countStr 
     console.log(count)
 }
