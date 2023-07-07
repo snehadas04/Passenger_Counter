@@ -41,3 +41,9 @@ button{
     background-color: brown;
     border-color: rgb(238, 227, 164);
 }
+
+#save-el{
+    margin-top: 40px;
+    color: rgb(244, 217, 60);
+    font-size: 30px;
+}
